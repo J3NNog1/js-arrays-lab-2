@@ -64,7 +64,8 @@ Exercise 6:
 
 // Complete Exercise 6 below...
 
-
+let position = 1;
+foods.splice(position, 1, "sushi", "cupcake")
 
 console.log('Exercise 6 Result:\n', foods);
 
