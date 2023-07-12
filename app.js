@@ -50,7 +50,10 @@ Exercise 5:
 
 // Complete Exercise 5 below...
 
+let index = 2;
 
+
+foods.splice(index, 0, 'tofu');
 
 console.log('Exercise 5 Result:\n', foods);
 
