@@ -100,7 +100,8 @@ Exercise 9:
 
 // Complete Exercise 9 below...
 
-
+foods = ['taco', 'sushi', 'cupcake', 'tofu', 'cheeseburger']
+allFoods = ' -> '.join(foods)
 
 console.log('Exercise 9 Result:\n', allFoods);
 
